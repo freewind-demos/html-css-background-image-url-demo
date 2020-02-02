@@ -1,4 +1,6 @@
-Css Disable Input Demo
-====================
+Html Css Background Image Url Demo
+==================================
 
-Open `index.html` in your browser.
+```
+npm run demo
+```
